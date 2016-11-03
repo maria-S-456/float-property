@@ -1,0 +1,12 @@
+.container {
+	padding-left: 150px;
+	padding-right: 150px;
+}
+.firstpicture {
+	float: left;
+	margin-right: 20px;
+}
+.secondpicture {
+	float: right;
+	margin-left:20px;
+}
